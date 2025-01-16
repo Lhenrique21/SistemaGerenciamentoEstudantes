@@ -1,2 +1,3 @@
 # SistemaGerenciamentoEstudantes
-Sistema todo em Java usando POO para gerenciar estudantes.
+Sistema de gerenciamento de estudantes todo em Java usando POO.
+
